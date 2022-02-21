@@ -32,8 +32,6 @@ This is specific for Linux Mint: ```sudo apt install dropbox nemo-dropbox python
 
 ```sudo apt install nmap tcpdump```
 
-```apt install spotify-client```
-
 ## VM
 
 ### VirtualBox
