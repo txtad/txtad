@@ -1,6 +1,6 @@
 # Tad Marko
 
-Most notes here for now.
+Mostly notes here for now.
 
 # Things to Install on a New Linux Mint / Ubuntu System
 
