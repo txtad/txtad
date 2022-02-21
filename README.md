@@ -20,6 +20,8 @@ This is specific for Linux Mint: ```sudo apt install dropbox nemo-dropbox python
 
 ```sudo apt install openjdk-17-jdk-headless openjdk-17-jdk maven```
 
+[Eclipse](https://www.eclipse.org/downloads/)
+
 ## General Development
 
 ```sudo apt install g++ make autoconf tidy```
