@@ -6,11 +6,11 @@ Mostly notes here for now.
 
 ## General
 
-```sudo apt install htop emacs vim byobu git smartmontools dc barrier docker.io gnupg geeqie oathtool keychain```
+```sudo apt install htop emacs vim byobu git smartmontools dc barrier docker.io gnupg geeqie oathtool keychain sshfs```
 
 [Google Chrome](https://www.google.com/chrome/)
 
-The [Atom text editor](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
+[Atom text editor](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 
 ## Dropbox
 
