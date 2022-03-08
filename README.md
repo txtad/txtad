@@ -6,7 +6,7 @@ Mostly notes here for now.
 
 ## General
 
-```sudo apt install htop emacs vim byobu git smartmontools dc barrier docker.io gnupg geeqie oathtool keychain sshfs```
+```sudo apt install htop emacs vim byobu git smartmontools dc barrier docker.io gnupg geeqie oathtool keychain sshfs gvncviewer```
 
 [Google Chrome](https://www.google.com/chrome/)
 
@@ -24,7 +24,7 @@ This is specific for Linux Mint: ```sudo apt install dropbox nemo-dropbox python
 
 ## General Development
 
-```sudo apt install g++ make autoconf tidy```
+```sudo apt install g++ make autoconf tidy meld source-highlight```
 
 ## Entertainment
 
