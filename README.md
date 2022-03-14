@@ -18,7 +18,7 @@ This is specific for Linux Mint: ```sudo apt install dropbox nemo-dropbox python
 
 ## Java Development
 
-```sudo apt install openjdk-17-jdk-headless openjdk-17-jdk maven```
+```sudo apt install openjdk-17-jdk-headless openjdk-17-jdk openjdk-17-source maven```
 
 [Eclipse](https://www.eclipse.org/downloads/)
 
