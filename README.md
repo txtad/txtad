@@ -1,14 +1,16 @@
 # Tad Marko
 
-I am a software developer who started with Basic, then [Turbo Pascal 2.0](https://winworldpc.com/product/turbo-pascal/2x) and [Microsoft C](https://winworldpc.com/product/microsoft-c-c/3x). These days I work on loyalty systems for independent grocers and convenience stores. I code in Bash, Java 17, Python, C++, as well as administer Ubuntu Linux systems and maintain networks that include IPSec and OpenVPN links.
+I am a software developer who started with Basic, then [Turbo Pascal 2.0](https://winworldpc.com/product/turbo-pascal/2x) and [Microsoft C](https://winworldpc.com/product/microsoft-c-c/3x).
+These days I work on loyalty systems for independent grocers and convenience stores.
+I code in Bash, Java 17, Python, C++, as well as administer Ubuntu Linux systems and maintain networks that include IPSec and OpenVPN links.
 
-### Documentation
+## Documentation
 
 * [Things to Install on a New Linux Mint / Ubuntu System](things_to_install_new_linux_system.md)
 
-### Links
+## Links
 
-* [2FA QR Code Generator](https://stefansundin.github.io/2fa-qr/)
+- [2FA QR Code Generator](https://stefansundin.github.io/2fa-qr/)
 
 
 <!--
