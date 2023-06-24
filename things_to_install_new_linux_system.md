@@ -6,7 +6,7 @@ Mostly notes here for now.
 
 ## General
 
-```sudo apt install htop emacs vim byobu git smartmontools dc barrier docker.io gnupg geeqie oathtool keychain sshfs gvncviewer```
+```sudo apt install htop emacs vim byobu git smartmontools dc barrier docker.io gnupg geeqie oathtool keychain sshfs gvncviewer grc```
 
 [Google Chrome](https://www.google.com/chrome/)
 
@@ -32,7 +32,7 @@ This is specific for Linux Mint: ```sudo apt install dropbox nemo-dropbox python
 
 ## Network Troubleshooting
 
-```sudo apt install nmap tcpdump```
+```sudo apt install mtr nmap tcpdump```
 
 ## VM
 
@@ -43,15 +43,3 @@ This is specific for Linux Mint: ```sudo apt install dropbox nemo-dropbox python
 ## Kernel Compile
 
 ```sudo apt-get install libssl-dev libelf-dev```
-
-<!--
-- 👋 Hi, I’m @txtad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
-<!---
-txtad/txtad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
