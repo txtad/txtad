@@ -28,7 +28,9 @@ sudo apt install dropbox nemo-dropbox python3-gpg
 sudo apt install openjdk-17-jdk openjdk-17-doc openjdk-17-jdk-headless openjdk-17-source maven
 ```
 
-Be aware that maven that is available in many Linux repositories is often not a sufficiently recent version. In that case, download it from the [Apache Maven Download Page](https://maven.apache.org/download.cgi). It is still a good idea to install the distro version using apt to get the necessary dependencies, then put the downloaded version in a local bin directory.
+Be aware that maven that is available in many Linux repositories is often not a sufficiently recent version.
+In that case, download it from the [Apache Maven Download Page](https://maven.apache.org/download.cgi).
+It is still a good idea to install the distro version using apt to get the necessary dependencies, then put the downloaded version in a local bin directory.
 
 [Eclipse](https://www.eclipse.org/downloads/)
 
