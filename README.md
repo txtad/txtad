@@ -1,10 +1,12 @@
 # Tad Marko
 
 I am a software developer who started with Basic, then [Turbo Pascal 2.0](https://winworldpc.com/product/turbo-pascal/2x) and [Microsoft C](https://winworldpc.com/product/microsoft-c-c/3x).
-These days I work on loyalty systems for independent grocers and convenience stores.
-I code in Bash, Java 17, Python, C++, as well as administer Ubuntu Linux systems and maintain networks that include IPSec and OpenVPN links.
+These days I am a senior developer working on loyalty systems for independent grocers and convenience stores.
+I code in Java 17/21, Bash, Python, C++, as well as administer Ubuntu Linux systems and maintain networks that include IPSec and OpenVPN links.
 
 ChatGPT and Copilot help me out with many tasks.
+
+I studied computer science at the University of North Texas and received a Bachelors of Applied Arts and Sciences from Midwestern State University.
 
 ## Documentation
 
