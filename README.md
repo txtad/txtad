@@ -4,6 +4,8 @@ I am a software developer who started with Basic, then [Turbo Pascal 2.0](https:
 These days I work on loyalty systems for independent grocers and convenience stores.
 I code in Bash, Java 17, Python, C++, as well as administer Ubuntu Linux systems and maintain networks that include IPSec and OpenVPN links.
 
+ChatGPT and Copilot help me out with many tasks.
+
 ## Documentation
 
 * [Things to Install on a New Linux Mint / Ubuntu System](things_to_install_new_linux_system.md)
