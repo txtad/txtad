@@ -12,8 +12,16 @@ ChatGPT and Copilot help me out with many tasks.
 
 ## Links
 
-- [2FA QR Code Generator](https://stefansundin.github.io/2fa-qr/)
+### Helpful Tools
 - [Ventoy - Multiple ISO Images on a Single Flash Drive](https://ventoy.net/en/index.html)
+
+### Operating Systems
+- [Linux Mint](https://www.linuxmint.com/download.php)
+- [Ubuntu Desktop](https://ubuntu.com/download/desktop)
+- [Ubuntu Server](https://ubuntu.com/download/server)
+
+### Web Utilities
+- [2FA QR Code Generator](https://stefansundin.github.io/2fa-qr/)
 
 <!--
 - 👋 Hi, I’m @txtad
