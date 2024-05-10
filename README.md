@@ -13,7 +13,7 @@ ChatGPT and Copilot help me out with many tasks.
 ## Links
 
 - [2FA QR Code Generator](https://stefansundin.github.io/2fa-qr/)
-
+- [Ventoy - Multiple ISO Images on a Single Flash Drive](https://ventoy.net/en/index.html)
 
 <!--
 - 👋 Hi, I’m @txtad
