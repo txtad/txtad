@@ -24,6 +24,7 @@ I studied computer science at the University of North Texas and received a Bache
 
 ### Web Utilities
 - [2FA QR Code Generator](https://stefansundin.github.io/2fa-qr/)
+- [IP Calculator](https://jodies.de/ipcalc)
 
 <!--
 - 👋 Hi, I’m @txtad
